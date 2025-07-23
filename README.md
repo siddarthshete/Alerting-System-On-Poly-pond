@@ -10,6 +10,9 @@
 4. Jumper Wires
 5. Mirror(for proj purpose)
 ---
-
+## Prerequisites 
+1.understaning of c++
+2.Basic understanding of IOT components
+---
 [Working video](https://photos.app.goo.gl/2jhDBYkXBxawVsbt6) 
 ---
